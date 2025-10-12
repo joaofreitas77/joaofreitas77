@@ -1,4 +1,4 @@
-👋 Olá, eu sou o João!  
+###👋 Olá, eu sou o João!  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 📚 Me aprimorando constantemente na área de programação, com foco especial em Desenvolvimento Front-End e Desenvolvimento de Software  
 
@@ -11,7 +11,7 @@
 🎯 **Objetivo**  
 Me tornar um desenvolvedor de software altamente qualificado e contribuir para projetos inovadores que impactem positivamente a sociedade.  
 
-🛠️ **Tecnologias e Ferramentas**
+## 🛠️ Tecnologias e Ferramentas
 
 ### 📌 Linguagens e Conhecimentos  
 <p align="left">
