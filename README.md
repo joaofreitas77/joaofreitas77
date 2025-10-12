@@ -8,10 +8,6 @@
 🖥️ Desenvolvimento de Software  
 🧩 Algoritmos  
 
-📖 **Aprendendo**  
-🌐 JavaScript, HTML, CSS  
-🐍 Python  
-
 🎯 **Objetivo**  
 Me tornar um desenvolvedor de software altamente qualificado e contribuir para projetos inovadores que impactem positivamente a sociedade.  
 
@@ -23,6 +19,7 @@ Me tornar um desenvolvedor de software altamente qualificado e contribuir para p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 </p>
 
 ### 🔹 Ferramentas  
