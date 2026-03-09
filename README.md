@@ -35,7 +35,7 @@ Me tornar um desenvolvedor de software altamente qualificado e contribuir para p
 </p>
 
 ---
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs?username=SEU-USUARIO)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs?username=joaofreitas77)
 ---
 
 💬 **Vamos Conversar?**  
