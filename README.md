@@ -38,14 +38,6 @@ Me tornar um desenvolvedor de software altamente qualificado e contribuir para p
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaofreitas77&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofreitas77&layout=compact&theme=tokyonight)
-
----
-
 💬 **Vamos Conversar?**  
 Estou sempre aberto a oportunidades de aprendizado e colaboração!  
 
